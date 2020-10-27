@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Text Editor
 
 You can use the [editor on GitHub](https://github.com/pooja1995-123/Testgit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
